@@ -1,0 +1,13 @@
+C:\Users\Krzysztof\Dropbox\Uj\!Praca Magisterska\Praca_magisterska\Praca_magisterska\bin\Debug\Praca_magisterska.exe.config
+C:\Users\Krzysztof\Dropbox\Uj\!Praca Magisterska\Praca_magisterska\Praca_magisterska\bin\Debug\Praca_magisterska.exe
+C:\Users\Krzysztof\Dropbox\Uj\!Praca Magisterska\Praca_magisterska\Praca_magisterska\bin\Debug\Praca_magisterska.pdb
+C:\Users\Krzysztof\Dropbox\Uj\!Praca Magisterska\Praca_magisterska\Praca_magisterska\obj\Debug\Praca_magisterska.csprojResolveAssemblyReference.cache
+C:\Users\Krzysztof\Dropbox\Uj\!Praca Magisterska\Praca_magisterska\Praca_magisterska\obj\Debug\Praca_magisterska.main_window.resources
+C:\Users\Krzysztof\Dropbox\Uj\!Praca Magisterska\Praca_magisterska\Praca_magisterska\obj\Debug\Praca_magisterska.Properties.Resources.resources
+C:\Users\Krzysztof\Dropbox\Uj\!Praca Magisterska\Praca_magisterska\Praca_magisterska\obj\Debug\Praca_magisterska.csproj.GenerateResource.Cache
+C:\Users\Krzysztof\Dropbox\Uj\!Praca Magisterska\Praca_magisterska\Praca_magisterska\obj\Debug\Praca_magisterska.exe
+C:\Users\Krzysztof\Dropbox\Uj\!Praca Magisterska\Praca_magisterska\Praca_magisterska\obj\Debug\Praca_magisterska.pdb
+C:\Users\Krzysztof\Dropbox\Uj\!Praca Magisterska\Praca_magisterska\Praca_magisterska\obj\Debug\Praca_magisterska.Log.resources
+C:\Users\Krzysztof\Dropbox\Uj\!Praca Magisterska\Praca_magisterska\Praca_magisterska\obj\Debug\Praca_magisterska.Show_itemsets.resources
+C:\Users\Krzysztof\Dropbox\Uj\!Praca Magisterska\Praca_magisterska\Praca_magisterska\obj\Debug\Praca_magisterska.Show_rules.resources
+C:\Users\Krzysztof\Dropbox\Uj\!Praca Magisterska\Praca_magisterska\Praca_magisterska\obj\Debug\Praca_magisterska.Working.resources
